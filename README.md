@@ -13,9 +13,11 @@ Two-Way with Pumping Scheme: EHTP, EHTVP (To be added)*
 
 **Examples of real-time prediction-free control optimisation solutions (C#/Unity3D/Unity ML-Agents):**
 
-Continuous control, Proximal Policy Optimisation (PPO) solution (Added - Under revision) - Swansea Bay Tidal Lagoon, without pumping
-Discrete control, Proximal Policy Optimisation (PPO) solution (To be added) - La Rance Tidal Barrage, with pumping
-Hybrid control, Proximal Policy Optimisation (PPO) solution (To be added) - Swansea Bay Tidal Lagoon, with pumping
+Continuous control, Proximal Policy Optimisation (PPO) solution (Added - Under revision) - Swansea Bay Tidal Lagoon, without pumping (To be added)
+
+Discrete control, Proximal Policy Optimisation (PPO) solution (To be added) - La Rance Tidal Barrage, with pumping (To be added)
+
+Hybrid control, Proximal Policy Optimisation (PPO) solution (To be added) - Swansea Bay Tidal Lagoon, with pumping (To be added)
 
 Please, when using this repository for academic purposes cite the works of:
 
