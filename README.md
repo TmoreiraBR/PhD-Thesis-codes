@@ -21,3 +21,5 @@ Please, when using this repository for academic purposes cite the works of:
 Moreira, Túlio Marcondes, et al. "Prediction-free, real-time flexible control of tidal lagoons through Proximal Policy Optimisation: A case study for the Swansea Lagoon." Ocean Engineering 247 (2022): 110657.
 
 Marcondes Moreira, Túlio, et al. "Development and Validation of an AI-Driven Model for the La Rance Tidal Barrage: A Generalisable Case Study." arXiv e-prints (2022): arXiv-2202.
+
+Optimising the Operation of Tidal Range Schemes https://doi.org/10.3390/en12152870
