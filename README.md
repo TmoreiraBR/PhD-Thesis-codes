@@ -5,7 +5,7 @@ This repository contains codes for simulating and optimising the operation of Ti
 
 Examples of conventional (prediction dependent) control optimisation algorithims (in Python), for the Swansea Bay Tidal Lagoon case study:
 
-Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV (Added - Under revision)*
+Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV (EHN, EHNV -> Under revision)*
 Two-Way with Pumping Scheme: EHTP, EHTVP (To be added)*
 
 * The presented flexible control algorithims (EHT, EHN) are our interpretation of the "head-control" strategy developed by Jingjing Xue, Reza Ahmadian and Roger A. Falconer, in the work: Optimising the Operation of Tidal Range Schemes https://doi.org/10.3390/en12152870 
