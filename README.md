@@ -1,4 +1,4 @@
-# PhDThesis
+# Túlio Moreira PhD Thesis
 Codes for reproducing results from PhD Thesis: AUTOMATIC FLEXIBLE CONTROL OF TIDAL RANGE STRUCTURES
 
 This repository contains codes for simulating and optimising the operation of Tidal Range Structures (TRS). All simulation models are 0D. 
