@@ -1,11 +1,11 @@
 # Túlio Moreira PhD Thesis
-Codes for reproducing results from PhD Thesis: AUTOMATIC FLEXIBLE CONTROL OF TIDAL RANGE STRUCTURES
+Revised codes for reproducing results from PhD Thesis: AUTOMATIC FLEXIBLE CONTROL OF TIDAL RANGE STRUCTURES
 
 This repository contains codes for simulating and optimising the operation of Tidal Range Structures (TRS). All simulation models are 0D. 
 
 **Examples of conventional (prediction dependent) control optimisation algorithims (in Python), for the Swansea Bay Tidal Lagoon case study:**
 
-Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV (EHN, EHNV -> Under revision)*
+Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV (EHN, EHNV -> To be added)*
 
 Two-Way with Pumping Scheme: EHTP, EHTVP (To be added)*
 
