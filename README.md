@@ -1,6 +1,6 @@
 # Túlio Moreira PhD Thesis
 
-This repository contains revised codes for reproducing results from PhD Thesis: AUTOMATIC FLEXIBLE CONTROL OF TIDAL RANGE STRUCTURES. They are aimed at simulating and optimising the operation of Tidal Range Structures (TRS), utilising the Swansea Bay Tidal Lagoon and La Rance as case studies. Currently, all simulation models are 0D.
+This repository contains revised codes for reproducing results from the PhD Thesis: AUTOMATIC FLEXIBLE CONTROL OF TIDAL RANGE STRUCTURES. They are aimed at simulating and optimising the operation of Tidal Range Structures (TRS), utilising the Swansea Bay Tidal Lagoon and La Rance as case studies. Currently, all simulation models are 0D.
 
 **Examples of conventional (prediction dependent) control optimisation algorithims (in Python), for the Swansea Bay Tidal Lagoon case study:**
 
