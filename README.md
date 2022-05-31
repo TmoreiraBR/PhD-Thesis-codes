@@ -22,8 +22,6 @@ Discrete control, Proximal Policy Optimisation (PPO) solution (To be added) - La
 
 Hybrid control, Proximal Policy Optimisation (PPO) solution (To be added) - Swansea Bay Tidal Lagoon, with pumping (To be added)
 
-**This repository contains 26 months of pre-processed measured (and predicted) ocean data by BODC**
-
 **This study uses data from the National Tidal and Sea Level Facility, provided by the British Oceanographic Data Centre (BODC) and funded by the Environment Agency.**
 
 More specifically, 26 months of pre-processed measured (and predicted) ocean data by BODC (at the location of Mumbles) are currently available. All data are numbered. Furthermore, measured data contains the suffix "r" (real), while prediction data contains the "p" suffix. For acquring the raw data, please visit the BODC website (https://www.bodc.ac.uk/).
