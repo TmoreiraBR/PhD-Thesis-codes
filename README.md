@@ -20,7 +20,7 @@ Continuous control, Proximal Policy Optimisation (PPO) solution (Added - Under r
 
 Discrete control, Proximal Policy Optimisation (PPO) solution (To be added) - La Rance Tidal Barrage, with pumping (To be added)
 
-Hybrid control, Proximal Policy Optimisation (PPO) solution (To be added) - Swansea Bay Tidal Lagoon, with pumping (To be added)
+Hybrid control (Discrete + Continuous), Proximal Policy Optimisation (PPO) solution (To be added) - Swansea Bay Tidal Lagoon, with pumping (To be added)
 
 **This study uses data from the National Tidal and Sea Level Facility, provided by the British Oceanographic Data Centre (BODC) and funded by the Environment Agency.**
 
