@@ -2,13 +2,16 @@
 
 This repository contains revised codes for reproducing results from the PhD Thesis: AUTOMATIC FLEXIBLE CONTROL OF TIDAL RANGE STRUCTURES. The codes are aimed at simulating and optimising the operation of Tidal Range Structures (TRS), utilising the Swansea Bay Tidal Lagoon and La Rance as case studies. Currently, all simulation models are 0D.
 
-**Examples of conventional (prediction dependent) control optimisation algorithims (in Python), for the Swansea Bay Tidal Lagoon case study:**
+**Examples of tide-prediction dependent control optimisation algorithims (in Python), for the Swansea Bay Tidal Lagoon case study:**
 
 Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV (EHN, EHNV -> Being added)*
 
 Two-Way with Pumping Scheme: EHTP, EHTVP (Being added)*
 
 * *The presented flexible control algorithims (EHT, EHN) are our interpretation of the "head-control" strategy developed by Jingjing Xue, Reza Ahmadian and Roger A. Falconer, in the work: Optimising the Operation of Tidal Range Schemes https://doi.org/10.3390/en12152870 
+
+* *For all codes "V" stands for variant TRS operation, where sluice gates operate independently from sluices
+* *For all codes "P" stands for pumping. The pumping model utilised has been developed in the work: Marcondes Moreira, Túlio, et al. "Development and Validation of an AI-Driven Model for the La Rance Tidal Barrage: A Generalisable Case Study." arXiv e-prints (2022): arXiv-2202.
 
 **Examples of real-time prediction-free control optimisation solutions (C#/Unity3D/Unity ML-Agents):**
 
