@@ -20,7 +20,7 @@ For the latest stable implementation for optimisation routines without pumping, 
 
 **Examples of real-time prediction-free control optimisation solutions (C#/Unity3D/Unity ML-Agents):**
 
-Continuous control, Proximal Policy Optimisation (PPO) solution, for the case study of the Swansea Bay Tidal Lagoon, without pumping -> Added to **ContinuousControl** folder.
+Continuous control, Proximal Policy Optimisation (PPO) solution, for the case study of the Swansea Bay Tidal Lagoon, without pumping -> Added to **ContinuousControl** folder. Current model results were published in [1].
 
 Discrete control, Proximal Policy Optimisation (PPO) solution, for the case study of the La Rance Tidal Barrage, with pumping (To be added)
 
@@ -32,7 +32,7 @@ More specifically, 26 months of pre-processed measured (and predicted) ocean dat
 
 **Please, when using this repository for academic purposes cite the works of:**
 
-Moreira, Túlio Marcondes, et al. "Prediction-free, real-time flexible control of tidal lagoons through Proximal Policy Optimisation: A case study for the Swansea Lagoon." Ocean Engineering 247 (2022): 110657.
+[1] Moreira, Túlio Marcondes, et al. "Prediction-free, real-time flexible control of tidal lagoons through Proximal Policy Optimisation: A case study for the Swansea Lagoon." Ocean Engineering 247 (2022): 110657.
 
 Marcondes Moreira, Túlio, et al. "Development and Validation of an AI-Driven Model for the La Rance Tidal Barrage: A Generalisable Case Study." arXiv e-prints (2022): arXiv-2202.
 
