@@ -4,7 +4,7 @@ This repository contains revised codes for reproducing results from the PhD Thes
 
 **Examples of tide-prediction dependent control optimisation algorithims (Jupyter Notebook), for the Swansea Bay Tidal Lagoon case study:**
 
-Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV, EHN, EHNV -> Visit https://github.com/TmoreiraBR/CoBaseTRS for latest implementation for optimisation routines without pumping
+Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV, EHN, EHNV -> Visit https://github.com/TmoreiraBR/CoBaseTRS for latest stable implementation for optimisation routines without pumping
 
 Two-Way with Pumping Scheme: EHTP, EHTVP (Being added)
 
