@@ -4,9 +4,13 @@ This repository contains revised codes for reproducing results from the PhD Thes
 
 **Examples of tide-prediction dependent control optimisation algorithims (Jupyter Notebook), for the Swansea Bay Tidal Lagoon case study:**
 
-Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV, EHN, EHNV -> Visit https://github.com/TmoreiraBR/CoBaseTRS for latest stable implementation for optimisation routines without pumping
+Two-Way Scheme: CH, CHV, EHT, EHTV, EHN, EHNV, EHN, EHNV
 
 Two-Way with Pumping Scheme: EHTP, EHTVP (Being added)
+
+All prediction dependent methods are being added in **PredictionDependentMethods** folder.
+
+For the latest stable implementation for optimisation routines without pumping, visit https://github.com/TmoreiraBR/CoBaseTRS 
 
 * *The presented flexible control algorithims (EHT, EHN) are our interpretation of the "head-control" strategy developed by Jingjing Xue, Reza Ahmadian and Roger A. Falconer, in the work: Optimising the Operation of Tidal Range Schemes https://doi.org/10.3390/en12152870 
 
@@ -16,7 +20,7 @@ Two-Way with Pumping Scheme: EHTP, EHTVP (Being added)
 
 **Examples of real-time prediction-free control optimisation solutions (C#/Unity3D/Unity ML-Agents):**
 
-Continuous control, Proximal Policy Optimisation (PPO) solution (Added - Under revision) - Swansea Bay Tidal Lagoon, without pumping (To be added)
+Continuous control, Proximal Policy Optimisation (PPO) solution (Added - Under revision) - Swansea Bay Tidal Lagoon, without pumping (Added to **ContinuousControl** folder)
 
 Discrete control, Proximal Policy Optimisation (PPO) solution (To be added) - La Rance Tidal Barrage, with pumping (To be added)
 
