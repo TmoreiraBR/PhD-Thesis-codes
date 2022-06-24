@@ -10,7 +10,7 @@ Two-Way with Pumping Scheme: EHTP, EHTVP (Being added)
 
 All prediction dependent methods are being added in **PredictionDependentMethods** folder.
 
-For the latest stable implementation for optimisation routines without pumping, visit https://github.com/TmoreiraBR/CoBaseTRS 
+For the latest stable implementation for optimisation routines without pumping, visit https://github.com/TmoreiraBR/CoBaseTRS, submitted to Software Impacts.
 
 * *The presented flexible control algorithims (EHT, EHN) are our interpretation of the "head-control" strategy developed by Jingjing Xue, Reza Ahmadian and Roger A. Falconer, in the work: Optimising the Operation of Tidal Range Schemes https://doi.org/10.3390/en12152870 
 
