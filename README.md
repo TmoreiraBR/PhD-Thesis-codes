@@ -20,11 +20,11 @@ For the latest stable implementation for optimisation routines without pumping, 
 
 **Examples of real-time prediction-free control optimisation solutions (C#/Unity3D/Unity ML-Agents):**
 
-Continuous control, Proximal Policy Optimisation (PPO) solution (Added - Under revision) - Swansea Bay Tidal Lagoon, without pumping (Added to **ContinuousControl** folder)
+Continuous control, Proximal Policy Optimisation (PPO) solution, for the case study of the Swansea Bay Tidal Lagoon, without pumping -> Added to **ContinuousControl** folder.
 
-Discrete control, Proximal Policy Optimisation (PPO) solution (To be added) - La Rance Tidal Barrage, with pumping (To be added)
+Discrete control, Proximal Policy Optimisation (PPO) solution, for the case study of the La Rance Tidal Barrage, with pumping (To be added)
 
-Hybrid control (Discrete + Continuous), Proximal Policy Optimisation (PPO) solution (To be added) - Swansea Bay Tidal Lagoon, with pumping (To be added)
+Hybrid control (Discrete + Continuous), Proximal Policy Optimisation (PPO) solution, for the case study of the Swansea Bay Tidal Lagoon, with pumping (To be added)
 
 **This study uses data from the National Tidal and Sea Level Facility, provided by the British Oceanographic Data Centre (BODC) and funded by the Environment Agency.**
 
